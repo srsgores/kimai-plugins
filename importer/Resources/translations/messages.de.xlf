@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="de" datatype="plaintext" original="messages.en.xlf">
+    <body>
+      <trans-unit id="kuOJSXo" resname="importer.download_examples">
+        <source>importer.download_examples</source>
+        <target>Download von Beispiel-Dateien</target>
+      </trans-unit>
+      <trans-unit id="wLgWnO8" resname="importer.how_to_upload">
+        <source>importer.how_to_upload</source>
+        <target>DIES IST EINE VORSCHAU: Ihre Datei wurde analysiert und wenn alles korrekt aussieht, können Sie die Daten importieren, indem Sie die "Vorschau" Auswahlbox deaktivieren und die Datei erneut hochladen.</target>
+      </trans-unit>
+      <trans-unit id="tP3vIsQ" resname="importer.delimiter">
+        <source>importer.delimiter</source>
+        <target>Trennzeichen (nur für CSV)</target>
+      </trans-unit>
+      <trans-unit id="55DUSUf" resname="importer.file_chooser">
+        <source>importer.file_chooser</source>
+        <target>Dateiauswahl (CSV, JSON)</target>
+      </trans-unit>
+      <trans-unit id="l9hFsOV" resname="importer.file_chooser_help">
+        <source>importer.file_chooser_help</source>
+        <target>Max. Dateigröße: {{size}} - Max. {{rows}} Zeilen</target>
+      </trans-unit>
+      <trans-unit id="B_9NJtI" resname="importer.button">
+        <source>importer.button</source>
+        <target>Datei hochladen</target>
+      </trans-unit>
+      <trans-unit id="q_.GtCp" resname="importer.grandtotal">
+        <source>importer.grandtotal</source>
+        <target>Grandtotal (Kunden)</target>
+      </trans-unit>
+      <trans-unit id="p7HgHRI" resname="importer.global_activity">
+        <source>importer.global_activity</source>
+        <target>Globale Tätigkeiten verwenden (deaktivieren für Projekt-spezifische Tätigkeiten)</target>
+      </trans-unit>
+      <trans-unit id="b8jBl28" resname="importer.clockify_info">
+        <source>importer.clockify_info</source>
+        <target>Stundensatzkonfigurationen werden nicht importiert: falls der Import neue Benutzer/Kunden/Projekte anlegt, müssen Sie diese anschließend manuell einrichten.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

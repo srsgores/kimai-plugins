@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="en" datatype="plaintext" original="messages.en.xlf">
+    <body>
+      <trans-unit id="kuOJSXo" resname="importer.download_examples">
+        <source>importer.download_examples</source>
+        <target>Download example files</target>
+      </trans-unit>
+      <trans-unit id="wLgWnO8" resname="importer.how_to_upload">
+        <source>importer.how_to_upload</source>
+        <target>THIS IS A PREVIEW: Your file was analyzed and if everything looks correct, you can import the data by deactivating the "Preview" checkbox and re-uploading the file.</target>
+      </trans-unit>
+      <trans-unit id="tP3vIsQ" resname="importer.delimiter">
+        <source>importer.delimiter</source>
+        <target>Delimiter (only for CSV)</target>
+      </trans-unit>
+      <trans-unit id="55DUSUf" resname="importer.file_chooser">
+        <source>importer.file_chooser</source>
+        <target>File selection (CSV, JSON)</target>
+      </trans-unit>
+      <trans-unit id="l9hFsOV" resname="importer.file_chooser_help">
+        <source>importer.file_chooser_help</source>
+        <target>Max. Filesize: {{size}} - Max. {{rows}} rows</target>
+      </trans-unit>
+      <trans-unit id="B_9NJtI" resname="importer.button">
+        <source>importer.button</source>
+        <target>Upload file</target>
+      </trans-unit>
+      <trans-unit id="q_.GtCp" resname="importer.grandtotal">
+        <source>importer.grandtotal</source>
+        <target>Grandtotal (Customers)</target>
+      </trans-unit>
+      <trans-unit id="p7HgHRI" resname="importer.global_activity">
+        <source>importer.global_activity</source>
+        <target>Use global activities (deactivate for project-specific activities)</target>
+      </trans-unit>
+      <trans-unit id="b8jBl28" resname="importer.clockify_info">
+        <source>importer.clockify_info</source>
+        <target>Rate configurations are not imported: if the import creates new user/customer/projects, you have to set up the rates manually afterwards.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
